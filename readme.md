@@ -79,12 +79,7 @@ I'm a final-year **Electronics & Communication Engineering** student at **Dayana
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ananyavijay0727&show_icons=true&hide_border=true&bg_color=12050B&title_color=FB7185&text_color=FFE4E6&icon_color=F59E0B" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyavijay0727&layout=compact&hide_border=true&bg_color=12050B&title_color=FB7185&text_color=FFE4E6" alt="Top languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananyavijay0727&bg_color=12050B&color=FFE4E6&line=E11D48&point=F59E0B&area=true&hide_border=true" alt="Contribution graph" width="100%">
+  <img src="https://streak-stats.demolab.com?user=ananyavijay0727&hide_border=true&background=12050B&ring=E11D48&fire=F59E0B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FB7185&sideLabels=FFE4E6&dates=FDA4AF&stroke=4C1D2E" alt="GitHub streak">
 </p>
 
 ---
