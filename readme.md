@@ -1,4 +1,4 @@
-<!-- Still to fill in: YOUR-LINKEDIN, YOUR-EMAIL and each REPO-NAME. Upload banner.png to this repo too -->
+<!-- Still to fill in: YOUR-LINKEDIN. Upload banner.png to this repo too -->
 
 <p align="center">
   <img src="banner.png" alt="Ananya Vijay: Embedded Systems, IoT and Digital Design" width="100%">
@@ -16,19 +16,19 @@
 
 ### 🧑‍💻 About me
 
-I'm a final-year **Electronics & Communication Engineering** student at **Dayananda Sagar College of Engineering**, Bengaluru (Class of 2027). I enjoy working where hardware meets code: microcontrollers, sensors and digital logic.
+I'm a final-year **Electronics & Communication Engineering** student at **Dayananda Sagar College of Engineering**, Bengaluru (Class of 2027). I enjoy working where hardware meets code: microcontrollers, sensors, digital logic and a bit of machine learning.
 
-- 🔌 Currently working on **embedded systems, IoT and digital design**
-- 📄 Published a research paper on **machine-learning-based blood group classification**
+- 🔌 Building projects in **embedded systems, IoT and VLSI design**
+- 📄 Published a paper on **non-invasive blood group detection from fingerprints using AI/ML**
+- 🛠️ Hands-on with **hardware diagnostics and SMPS repair** from industry internships
 - 🎯 Looking for **internships in embedded systems, firmware, IoT and digital design**
-- 💬 Ask me about **ESP32, Verilog, sensors and MATLAB**
 
 ---
 
 ### 🤝 Connect with me
 
 <p align="left">
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Gmail-E11D48?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:vijachak28@gmail.com"><img src="https://img.shields.io/badge/Gmail-E11D48?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-9F1239?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/ananyavijay0727"><img src="https://img.shields.io/badge/GitHub-4C0519?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <img src="https://img.shields.io/badge/Open%20to-Internships-F59E0B?style=for-the-badge" alt="Open to internships">
@@ -38,29 +38,55 @@ I'm a final-year **Electronics & Communication Engineering** student at **Dayana
 
 ### 🛠️ Tech stack
 
-**🔧 Hardware & Embedded**
+**🔌 Embedded Systems & IoT**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
-  <img src="https://img.shields.io/badge/Arduino-E11D48?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/Embedded%20C-9F1239?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C">
-  <img src="https://img.shields.io/badge/IoT-4C0519?style=for-the-badge&logo=wifi&logoColor=white" alt="IoT">
+  <img src="https://img.shields.io/badge/ESP32-E11D48?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/Blynk-9F1239?style=for-the-badge" alt="Blynk">
+  <img src="https://img.shields.io/badge/Embedded%20C-4C0519?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C">
+  <img src="https://img.shields.io/badge/Microcontroller%20Programming-F59E0B?style=for-the-badge" alt="Microcontroller Programming">
+  <img src="https://img.shields.io/badge/IoT-E11D48?style=for-the-badge" alt="IoT">
 </p>
 
-**🧮 Digital Design**
+**🧮 Digital Design & VLSI**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Verilog-E11D48?style=for-the-badge&logoColor=white" alt="Verilog">
+  <img src="https://img.shields.io/badge/Verilog%20HDL-E11D48?style=for-the-badge" alt="Verilog HDL">
   <img src="https://img.shields.io/badge/Quartus%20Prime-9F1239?style=for-the-badge&logo=intel&logoColor=white" alt="Quartus Prime">
+  <img src="https://img.shields.io/badge/Cadence-4C0519?style=for-the-badge" alt="Cadence">
+  <img src="https://img.shields.io/badge/Digital%20Circuit%20Design-F59E0B?style=for-the-badge" alt="Digital Circuit Design">
 </p>
 
-**📈 Programming & Analysis**
+**⚙️ Circuits & Hardware**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-E11D48?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/MATLAB-9F1239?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
-  <img src="https://img.shields.io/badge/Machine%20Learning-4C0519?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/Git-F59E0B?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Multisim-E11D48?style=for-the-badge" alt="Multisim">
+  <img src="https://img.shields.io/badge/LTspice-9F1239?style=for-the-badge" alt="LTspice">
+  <img src="https://img.shields.io/badge/SMPS%20Repair-4C0519?style=for-the-badge" alt="SMPS Repair">
+  <img src="https://img.shields.io/badge/Hardware%20Diagnostics-F59E0B?style=for-the-badge" alt="Hardware Diagnostics">
+</p>
+
+**📡 Communication & Signals**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/DSP-E11D48?style=for-the-badge" alt="DSP">
+  <img src="https://img.shields.io/badge/RF%20%26%20Wireless-9F1239?style=for-the-badge" alt="RF & Wireless">
+  <img src="https://img.shields.io/badge/Computer%20Networks-4C0519?style=for-the-badge" alt="Computer Networks">
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-F59E0B?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
+</p>
+
+**🐍 Programming, ML & Analysis**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-E11D48?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Python-9F1239?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MATLAB-4C0519?style=for-the-badge" alt="MATLAB">
+  <img src="https://img.shields.io/badge/OpenCV-F59E0B?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/scikit--learn-E11D48?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/TensorFlow-9F1239?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Jupyter-4C0519?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Data%20Analysis-F59E0B?style=for-the-badge" alt="Data Analysis">
+  <img src="https://img.shields.io/badge/Web%20Dev-E11D48?style=for-the-badge" alt="Web Dev">
 </p>
 
 ---
@@ -69,10 +95,21 @@ I'm a final-year **Electronics & Communication Engineering** student at **Dayana
 
 | Project | What it does | Built with |
 |---|---|---|
-| [**ESP32 Smart Home Automation**](https://github.com/ananyavijay0727/REPO-NAME) | Controls home appliances over Wi-Fi with an ESP32 | ESP32 · Embedded C · IoT |
-| [**Dual Port RAM**](https://github.com/ananyavijay0727/REPO-NAME) | Dual-port memory designed and simulated in Verilog | Verilog · Quartus Prime |
-| [**Fractional-Order Bioimpedance Sensor**](https://github.com/ananyavijay0727/REPO-NAME) | Bioimpedance sensor modelled with fractional-order elements, analysed in MATLAB | MATLAB |
-| [**ML Blood Group Classification**](https://github.com/ananyavijay0727/REPO-NAME) | Machine-learning model that classifies blood groups (published research) | Python · ML |
+| [**IoT Smart Home Automation**](https://github.com/ananyavijay0727/esp32-smart-home-blynk) | Controls lights and fans from a smartphone over Wi-Fi, switching appliances through relays | ESP32 · Blynk · IoT |
+| [**Dual Port RAM (DPRAM)**](https://github.com/ananyavijay0727/dual-port-ram-verilog) | VLSI memory with two independent ports for simultaneous read and write, verified with testbenches | Verilog HDL · Quartus Prime |
+| [**Bio Touch ID**](https://github.com/ananyavijay0727/bio-touch-id-blood-group-detection) | Predicts blood group from fingerprint images, no blood sample needed | Python · OpenCV · scikit-learn · TensorFlow |
+| [**Fractional Inductive Bioimpedance Sensor**](https://github.com/ananyavijay0727/fractional-inductive-bioimpedance-sensor) | Non-invasive bioimpedance sensor using a fractional-order model, with live readings streamed over IoT | MATLAB · IoT · Sensor design |
+
+---
+
+### 💼 Experience
+
+- **Intern, Aforeserve India** (Jan 2026): hardware diagnostics, system configuration and technical support
+- **Technical training, Souza Technology Services** (May 2026): component-level SMPS diagnosis and repair, ATX power supply analysis, high-voltage safety and burn-in testing
+
+### 📄 Publication
+
+- **Non-Invasive Blood Group Detection using Fingerprint Patterns with Artificial Intelligence and Machine Learning**, presented and published at the Hinweis 4th International Conference on Advanced Research in Engineering and Technology
 
 ---
 
